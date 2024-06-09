@@ -1,12 +1,16 @@
 # datafun-07-ml
 P7 Introduction to Machine Learning
 
-In this project, you'll:
+I will employ a type of supervised learning, simple linear regression, to train a model using all available data and use the resulting model (a "best-fit" straight line) to make predictions.
+
+In this project:
 
 + Build a model
 + Make predictions
 + Visualize the model 
 + Publish your insights
+
+---
 
 ### .gitignore needs
 
@@ -45,6 +49,7 @@ ni "requirements.txt"
 ```
 
 ### Add all dependencies by installing packages seperately
+
 ```shell
 #Example If you have a requirements.txt list each package in this file
 py -m pip install -r requirements.txt
@@ -53,6 +58,7 @@ py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
 ```
 
 ### Freeze Your Dependencies
+
 This will keep the package at the version it was installed as
 ```shell
 py -m pip freeze > requirements.txt
@@ -65,6 +71,7 @@ git add .
 git commit -m "initial commit"
 git push origin main
 ```
+
 ### Start Jupyter
 
 ```shell
