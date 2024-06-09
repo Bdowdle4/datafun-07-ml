@@ -5,3 +5,14 @@ pyarrow
 matplotlib
 seaborn
 scipy
+beautifulsoup4
+dweepy
+geopy
+imageio
+ipykernel
+nltk
+prospector
+scikit-learn
+spacy
+textatistic
+textblob

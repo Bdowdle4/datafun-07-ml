@@ -5,7 +5,7 @@ In this project, you'll:
 
 + Build a model
 + Make predictions
-+ Visualize the model
++ Visualize the model 
 + Publish your insights
 
 ### .gitignore needs
