@@ -1,6 +1,13 @@
 # datafun-07-ml
 P7 Introduction to Machine Learning
 
+In this project, you'll:
+
++ Build a model
++ Make predictions
++ Visualize the model
++ Publish your insights
+
 ### .gitignore needs
 
 ```shell
